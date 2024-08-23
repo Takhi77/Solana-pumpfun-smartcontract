@@ -3,11 +3,17 @@ This is the Rust/Anchor smart contract for Pump.fun.
 
 ## Features
 It has All features that pump.fun has.
+
 ✅ Token Mint
+
 ✅ Create Pool with 30 Sol of initial virtual Sol reserve
+
 ✅ Add Liquidity
+
 ✅ Swap Token with the price of the token (Virtual Sol Reserve / Virtual Token Reserve)
+
 ✅ Raydium Launch when the Market Cap of the Token (price of the token * 10 ** 9) is reached to $69M
+
 
 It has its own test cases to test all functions except Raydium Launch because it is used my ongoing project.
 You can check the tx to Remove vitual LP and Create Raydium Pool in this smart contract with CPI calls.
