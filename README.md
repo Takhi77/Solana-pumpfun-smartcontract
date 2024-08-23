@@ -17,7 +17,7 @@ It has All features that pump.fun has.
 When the Market Cap meet the KOH, the pumpfun launch the real Sol $12K i.e. $24K Liquidity to the Raydium.
 Then the rest of the liquidity will be gained by pumpfun team.
 
-## Bonding Curve Login
+## Bonding Curve Logic
 It is using its own specific bonding curve logic.
 
 so It is
