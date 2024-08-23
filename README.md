@@ -14,6 +14,20 @@ It has All features that pump.fun has.
 
 ✅ Raydium Launch when the Market Cap of the Token (price of the token * 10 ** 9) is reached to $69M
 
+When the Market Cap meet the KOH, the pumpfun launch the real Sol $12K i.e. $24K Liquidity to the Raydium.
+Then the rest of the liquidity will be gained by pumpfun team.
+
+## Bonding Curve Login
+It is using its own specific bonding curve logic.
+
+so It is
+
+X * Y = K ** 2
+
+X : the price of the token
+
+Y : the supply of the token in the pool
+
 
 It has its own test cases to test all functions except Raydium Launch because it is used my ongoing project.
 You can check the tx to Remove vitual LP and Create Raydium Pool in this smart contract with CPI calls.
