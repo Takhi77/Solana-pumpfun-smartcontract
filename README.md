@@ -1,6 +1,11 @@
 # Pump.fun-Smart-Contract
 This is the Rust/Anchor smart contract for Pump.fun.
 
+## Contact
+telegram: @Takhi77
+
+You can contact me here if you have any problems with this repo then we can decide comfortable contact way.
+
 ## Features
 It has All features that pump.fun has.
 
@@ -33,5 +38,3 @@ It has its own test cases to test all functions except Raydium Launch because it
 You can check the tx to Remove vitual LP and Create Raydium Pool in this smart contract with CPI calls.
 https://explorer.solana.com/tx/4L6MWmtV1ZsT8NFfbtu68ZYyYVbpvZ4iynJhPdZw8jESi28TxwojjTFs88Q5QRdNUb297aWfkKcoYP9Ya8npx8AV?cluster=devnet
 In this smart contract, I set creating LP FEE as 5% of Reserves.
-
-### If you have any questions, then contact me with the info in my profile.
